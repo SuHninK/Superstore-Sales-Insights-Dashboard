@@ -27,7 +27,8 @@ This interactive Power BI dashboard provides deep strategic insights into busine
 ---
 ## Deliverables inside this Repository
 - `Superstore Sales Dataset.pbix`: Full Power BI Source File (Open via Power BI Desktop)
-- Dashboard Visual Previews <img width="726" height="512" alt="image" src="https://github.com/user-attachments/assets/e155b33c-9aca-456f-aab7-9180948d918b" />
+- Dashboard Visual Previews
+<img width="726" height="512" alt="image" src="https://github.com/user-attachments/assets/e155b33c-9aca-456f-aab7-9180948d918b" />
 
 ---
 ### Live File Access
